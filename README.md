@@ -12,7 +12,7 @@ Installation
 How To Use
 ---------------------
 
-    go-cli-template --test="any test you want"  
+    go-cli-template --t="any test you want"  
 
 Just clone it for your console program template.
 

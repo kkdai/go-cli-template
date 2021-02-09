@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	textPtr := flag.String("text", "", "Text to parse. (Required)")
+	textPtr := flag.String("t", "", "Text to parse. (Required)")
 	flag.Parse()
 
 	if *textPtr == "" {

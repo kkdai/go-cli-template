@@ -15,5 +15,5 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("Hello world %s \n", *textPtr)
+	fmt.Printf("Hello world: %s \n", *textPtr)
 }

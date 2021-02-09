@@ -16,6 +16,11 @@ How To Use
 
 Just clone it for your console program template.
 Add GITHUB TOKEN in your secret setting.
+[Setings] -> [Secrets] -> [New Secret]
+
+Name: GO_RELEASER_GITHUB_TOKEN
+Token: Get github token from https://github.com/settings/tokens
+
 
 License
 ---------------
